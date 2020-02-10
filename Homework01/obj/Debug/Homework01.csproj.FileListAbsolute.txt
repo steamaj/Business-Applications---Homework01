@@ -1,0 +1,11 @@
+C:\Users\steamaj\Documents\Visual Studio 2017\Projects\Homework01\Homework01\bin\Debug\Homework01.exe.config
+C:\Users\steamaj\Documents\Visual Studio 2017\Projects\Homework01\Homework01\bin\Debug\Homework01.exe
+C:\Users\steamaj\Documents\Visual Studio 2017\Projects\Homework01\Homework01\bin\Debug\Homework01.pdb
+C:\Users\steamaj\Documents\Visual Studio 2017\Projects\Homework01\Homework01\obj\Debug\Homework01.csprojAssemblyReference.cache
+C:\Users\steamaj\Documents\Visual Studio 2017\Projects\Homework01\Homework01\obj\Debug\Homework01.Form1.resources
+C:\Users\steamaj\Documents\Visual Studio 2017\Projects\Homework01\Homework01\obj\Debug\Homework01.Login.resources
+C:\Users\steamaj\Documents\Visual Studio 2017\Projects\Homework01\Homework01\obj\Debug\Homework01.Properties.Resources.resources
+C:\Users\steamaj\Documents\Visual Studio 2017\Projects\Homework01\Homework01\obj\Debug\Homework01.csproj.GenerateResource.cache
+C:\Users\steamaj\Documents\Visual Studio 2017\Projects\Homework01\Homework01\obj\Debug\Homework01.csproj.CoreCompileInputs.cache
+C:\Users\steamaj\Documents\Visual Studio 2017\Projects\Homework01\Homework01\obj\Debug\Homework01.exe
+C:\Users\steamaj\Documents\Visual Studio 2017\Projects\Homework01\Homework01\obj\Debug\Homework01.pdb
